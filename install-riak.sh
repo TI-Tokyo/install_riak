@@ -72,7 +72,7 @@ if [ "$help" = 1 ]
   echo "Example of an unattended standalone Riak KV 3.0.16 setup:"
   echo "./install-riak.sh -t kv -n riak@10.0.0.1 -c riakcookie -v 3.0.16 -b leveled -a tictac -i 0.0.0.0 -r 256 -y"
   echo ""
-  echo "Found a bug? Report it on https://github.com/titokyo/install_riak"
+  echo "Found a bug? Report it on https://github.com/ti-tokyo/install_riak"
   echo "Need extra Riak help? Email info@tiot.jp"
   exit
 fi
